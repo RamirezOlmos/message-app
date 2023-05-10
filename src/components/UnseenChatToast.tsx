@@ -1,3 +1,5 @@
+"use client"
+
 import React, { FC } from 'react';
 import { chatHrefConstructor, cn } from '@/lib/utils';
 import { toast, type Toast } from 'react-hot-toast';
